@@ -9,7 +9,7 @@ print(selfish[-1]) #  prints e
 
 #  [start:stop:stepover]
 print(selfish[0:2]) #  prints me
-print(selfish[0:3]) #  prints me
+print(selfish[0:3]) #  prints me 
 print(selfish[0:8]) #  prints me me me
 
 print(selfish[0:8:1]) #  prints me me me

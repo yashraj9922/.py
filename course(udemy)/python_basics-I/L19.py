@@ -5,3 +5,7 @@ name = "Sam"
 
 name = "John" #  this is correct
 print(name)
+# The only way to change is, completely reassign the value
+
+name = name + "Yash"
+print(name)
